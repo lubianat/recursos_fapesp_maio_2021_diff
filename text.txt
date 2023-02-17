@@ -1,0 +1,836 @@
+1. Instruções Iniciais (volta ao índice)
+
+1.1. Esta norma se destina a estabelecer as regras e procedimentos para uso e prestação de contas dos recursos concedidos pela FAPESP em Auxílios e Bolsas.
+
+1.1.1. Para o uso e prestação de contas de recursos concedidos como subvenção econômica, devem ser seguidas as "Normas para Uso de Recursos e Prestação de Contas de Subvenção Econômica".
+
+1.2. Os recursos concedidos deverão ser utilizados em estrita observância às regras contidas nesta e nas demais normas e editais da FAPESP e nos Termos de Outorga de Auxílios e Bolsas.
+
+1.2.1. Para solicitar alterações no Termo de Outorga ou autorizações específicas para uso dos recursos, devem ser observadas as instruções disponíveis em www.fapesp.br/565.
+
+1.3. A utilização dos recursos concedidos pela FAPESP está condicionada à:
+
+a) Assinatura do Termo de Outorga e Aceitação do Auxílio ou Bolsa.
+
+a.1) No caso de solicitações de mudanças aprovadas pela FAPESP no processo com emissão de Aditivo ao Termo de Outorga, estas somente terão validade após a assinatura do respectivo Aditivo.
+
+b) Apresentação de documentos e informações exigidos para a assinatura do Termo de Outorga e/ou para início da liberação de recursos, conforme instruções de cada modalidade de apoio.
+
+c) Emissão do Cartão BB Pesquisa ou abertura de conta corrente no Banco do Brasil para recebimento dos recursos concedidos, conforme instruções disponíveis em www.fapesp.br/financeiro.
+
+d) Não existência de pendências em nome dos Outorgados junto à FAPESP.
+
+e) Não existência de pendências em nome dos Outorgados junto ao Cadastro Informativo dos Créditos Não Quitados de Órgãos e Entidades Estaduais – CADIN ESTADUAL.
+
+f) Prestação de Contas de todos os recursos utilizados, de acordo com as instruções contidas nesta Norma.
+
+1.4. Os recursos concedidos em Auxílios e Bolsas estão sujeitos à Prestação de Contas na totalidade dos valores efetivamente liberados e/ou a serem reembolsados pela FAPESP.
+
+1.5. Para fins desta norma, aplicam-se os seguintes conceitos:
+
+a) Outorgado: refere-se aos beneficiários e beneficiárias pessoa física, qualificados nos Termos de Outorga e Aceitação de Auxílios e Bolsas. No caso de Bolsas, os Outorgados são o Bolsista e o Orientador, Supervisor ou Pesquisador Responsável, exceto nas modalidades em que o Bolsista e o Pesquisador Responsável pelo processo sejam a mesma pessoa. No caso de Auxílios e Programas, o Outorgado é o Pesquisador Responsável.
+
+b) Instituição Sede: é a instituição que sedia o projeto e, em geral, a instituição à qual se vincula o Pesquisador Responsável. A Instituição Sede deve assumir compromissos com a guarda e acesso de materiais e equipamentos, e com o apoio institucional ao projeto de pesquisa.
+
+c) Empresa Sede: é a empresa que sedia o projeto, no caso de modalidades concedidas para o desenvolvimento de projeto de pesquisa em empresas.
+
+d) Termo de Outorga: refere-se ao Termo de Outorga e Aceitação de Auxílios e Bolsas, que é o documento que oficializa a concessão de recursos pela FAPESP aos Outorgados e estabelece as condições e obrigações das partes nele qualificadas.
+
+e) Termo de Doação de Material Permanente: documento que formaliza a doação de material permanente adquirido em Auxílios a uma Instituição pública, ou privada habilitada para receber doação.
+
+f) Termo de Cessão de Uso de Material Permanente: documento que formaliza a cessão de uso de material permanente adquirido em Auxílios cuja Instituição Sede seja privada, não habilitada para receber doação, ou seja uma empresa.
+
+g) Termo de Transferência de Material Permanente: documento que formaliza a transferência de itens de material permanente adquiridos com recursos de Reserva Técnica de Bolsas e registra a aceitação da Instituição Sede em receber tais materiais e incorporá-los ao seu patrimônio.
+
+h) Termo de Aceitação de Transferência de Domínio de Materiais por Cessão de Uso e/ou Doação: documento por meio do qual a Instituição ou Empresa Sede declara que aceita a cessão de uso e/ou doação e transferência de domínio do material permanente nacional e/ou importado e/ou do material de consumo importado, adquiridos com recursos concedidos pela FAPESP.
+
+2. Uso dos recursos (volta ao índice)
+
+2.1. Liberação e devolução de recursos (volta ao índice)
+
+2.1.1. Os procedimentos para liberação e para devolução de recursos concedidos pela FAPESP estão descritos respectivamente em www.fapesp.br/financeiro e www.fapesp.br/10820, observando-se que:
+
+a) A aprovação de recursos não significa a sua liberação, que só ocorre após a solicitação pelo Outorgado.
+
+b) O controle do saldo liberado é de responsabilidade do Outorgado.
+
+c) O saldo de recursos aprovado no processo é diferente do saldo efetivamente liberado.
+
+2.1.2. Para as modalidades de Auxílios em que a liberação de recursos é realizada por meio do Cartão BB Pesquisa, o Outorgado será responsável:
+
+a) Por observar as instruções disponíveis no manual de utilização do cartão, disponível em https://fapesp.br/financas/manualcartaobb.pdf.
+
+b) Pelo controle do saldo (limite do cartão) e movimentações realizadas com o cartão e/ou pelo portal do Banco do Brasil (Autoatendimento do Setor Público).
+
+c) Pela guarda do cartão e sigilo das senhas do cartão e da chave J.
+
+d) Por solicitar a liberação de recursos antes de efetuar transações com o cartão.
+
+e) Pelo controle do saldo do projeto por item concedido.
+
+f) Por providenciar Boletim de Ocorrência (B.O.), bloquear o cartão, e comunicar imediatamente à FAPESP, em casos de roubo, furto ou extravio.
+
+g) Por evitar a permanência de saldo no cartão sem a necessidade de uso imediato.
+
+2.1.3. os recursos concedidos devem ser liberados e utilizados na vigência constante no Termo de Outorga e Aceitação do respectivo Auxílio ou Bolsa, incluindo o recebimento de materiais, a execução de serviços, a realização de viagens e a participação em eventos, exceto nos seguintes casos:
+
+a) Auxílio à Organização de Reunião Científica: a liberação de recursos poderá ser solicitada a partir de 30 dias antes do início da vigência do Auxílio e estes poderão ser utilizados até a data estabelecida no Termo de Outorga para entrega da Prestação de Contas.
+
+b) Auxílio à Participação em Reunião Científica: a liberação de recursos poderá ser solicitada a partir de 30 dias antes do início da vigência do Auxílio.
+
+c) Auxílio Pesquisador Visitante: a liberação da manutenção mensal deverá ser solicitada na vigência do Auxílio, mas a liberação de recursos para aquisição de passagens aéreas e seguro viagem poderá ser solicitada a partir de 30 dias antes do início da vigência.
+
+d) Nos casos em que a assinatura do Termo de Outorga de Auxílio ou Bolsa ocorrer após o término da vigência do processo, a liberação de recursos será efetuada como reembolso, mediante apresentação, análise e aprovação da Prestação de Contas pela FAPESP.
+
+2.1.4. Todo pagamento deve ser efetuado à vista, solicitando a liberação de recursos "casada" com a despesa.
+
+2.1.4.1. Para pagamento de pequenas despesas, poderá ser solicitada a liberação de recursos para a manutenção de um caixa pequeno, até o limite de um salário mínimo nacional vigente.
+
+2.1.4.2. O saldo não utilizado do caixa pequeno deverá ser devolvido à FAPESP por ocasião do envio das Prestações de Contas parciais e final do processo.
+
+2.1.5. A liberação dos recursos concedidos em Auxílios e Bolsas será bloqueada pela FAPESP nas seguintes situações:
+
+a) Atraso na apresentação dos seguintes compromissos, em relação a quaisquer processos dos Outorgados:
+
+a.1) Relatório Científico;
+
+a.2) Relatório Científico reformulado;
+
+a.3) Prestação de Contas;
+
+a.4) Complemento de Prestação de Contas;
+
+a.5) Ata de Defesa;
+
+a.6) Termo de Aceitação de Transferência de Domínio de Materiais por Cessão de Uso e/ou Doação;
+
+a.7) Termo de Cessão de Uso de Material Permanente;
+
+a.8) Emissão de parecer solicitado aos Outorgados na qualidade de assessores ad hoc;
+
+a.9) Relatório de Desenvolvimento Empresarial, exigido para Auxílios da modalidade PIPE;
+
+b) Verificação de desvio de finalidade na utilização dos recursos ou dos bens patrimoniais adquiridos no processo;
+
+c) Não atendimento à solicitação de imediata regularização de Nota Fiscal Eletrônica de Serviços emitida incorretamente em nome da Fundação;
+
+d) Descumprimento de quaisquer outras obrigações dispostas no Termo de Outorga e Aceitação de Auxílios e/ou Bolsas e seus respectivos anexos;
+
+e) Reprovação de Relatório Científico de Bolsas no país, situação em que a Bolsa permanecerá suspensa até a aprovação, pela FAPESP, do Relatório Científico reformulado.
+
+2.2. Importação e Exportação (volta ao índice)
+
+2.2.1. Os procedimentos para importação, contratação/pagamento de serviços no exterior e exportação, com recursos concedidos em Auxílios, estão descritos em www.fapesp.br/importacao/.
+
+2.2.2. Quando houver concessão de recursos em moeda estrangeira em Auxílios, as autorizações para início da importação, pagamento/contratação de serviços de terceiros no exterior ou exportação deverão ser enviadas à FAPESP nos prazos abaixo:
+
+a) Para importação ou pagamento/contratação de serviços de terceiros no exterior com embarque para a FAPESP: apresentar a documentação completa até 3 (três) meses antes do término da vigência do Auxílio.
+
+b) Para pagamento/contratação de serviços de terceiros no exterior sem embarque para a FAPESP: apresentar a documentação completa até 45 (quarenta e cinco) dias antes do término da vigência do Auxílio.
+
+c) Para exportação: apresentar a documentação completa até 6 (seis) meses antes do término da vigência do Auxílio.
+
+2.2.3. Todos os pedidos para importação, pagamento/contratação de serviços de terceiros no exterior ou exportação devem ser concluídos durante a vigência do Auxílio.
+
+2.2.3.1. Caso os procedimentos não sejam concluídos durante a vigência, o pedido será cancelado, sendo responsabilidade do Outorgado, juntamente com o responsável pela Instituição ou Empresa Sede, tomar as providências necessárias junto ao fornecedor no exterior para o repatriamento dos recursos enviados.
+
+2.2.4. A FAPESP não realiza importação, contratação/pagamento de serviços no exterior e exportação com recursos de Reserva Técnica de Bolsas ou de Auxílios.
+
+2.2.5. Os recursos concedidos nos Termos de Outorga como Provisão de Importação são de uso exclusivo da FAPESP, para atender ao pagamento, no Brasil, das despesas decorrentes do processamento da importação, tais como frete interno, seguro, despesas bancárias, pagamento de despachante e frete internacional, bem como eventuais variações cambiais ocorridas após a assinatura do respectivo Termo de Outorga ou Aditivo ao Termo de Outorga.
+
+2.3. Itens financiáveis (volta ao índice)
+
+2.3.1. Os recursos concedidos em Auxílios à Pesquisa e Bolsas devem ser utilizados, em despesas financiáveis conforme normas de cada modalidade de apoio, para os itens solicitados e aprovados pela FAPESP no respectivo Termo de Outorga.
+
+2.3.2. Para utilização dos recursos de Reserva Técnica concedidos em Auxílios à Pesquisa e Bolsas, devem ser atendidas as Normas para Uso dos Recursos de Reserva Técnica Concedidos pela FAPESP, disponíveis em www.fapesp.br/rt.
+
+2.3.3. Os recursos concedidos nos Auxílios à Pesquisa poderão ser utilizados, de forma flexível, entre as diferentes alíneas da concessão especificadas no Termo de Outorga, sem necessidade de sua alteração, respeitadas as vedações explicitadas nesta norma.
+
+2.3.4. Não é permitida a flexibilização no uso dos recursos de Auxílios à Pesquisa de que trata o item 2.3.3, sendo necessária a autorização prévia da FAPESP mediante solicitação justificada, nos seguintes casos:
+
+a) solicitação de recursos adicionais;
+
+b) inclusão de novas alíneas de despesa no Termo de Outorga, exceto para utilização da Reserva Técnica em itens financiáveis conforme normas disponíveis em www.fapesp.br/rt;
+
+c) inclusão ou aumento de quantidade de Material Permanente, exceto para utilização da Reserva Técnica em itens financiáveis conforme normas disponíveis em www.fapesp.br/rt;
+
+d) qualquer alteração na alínea de Serviços de Terceiros nos Auxílios aprovados no Programa FAPESP Pesquisa Inovativa em Pequenas Empresas - PIPE;
+
+e) qualquer alteração nas concessões envolvendo parceria da FAPESP com outras Instituições (Convênios/Acordos de Cooperação), quando esta condição estiver explicitada no respectivo Termo de Outorga. Nestes casos, a alteração dependerá da concordância prévia da Instituição Parceira e da FAPESP.
+
+2.3.5. Quando houver necessidade de transposição de recursos concedidos nos Auxílios à Pesquisa em reais para dólares americanos, ou vice-versa, a solicitação deve ser feita por meio de:
+
+a) submissão de "Solicitação de Mudança" do tipo "Alteração de Orçamento" no SAGe, para processos que tramitam por este sistema;
+
+b) submissão de solicitação de "Transposição de Verbas" no sistema Agilis, para processos que tramitam em formato impresso.
+
+2.3.6. As despesas financiáveis pela FAPESP são classificadas em:
+
+a) Despesas de Capital:
+
+a.1) material permanente: bens que, em razão de sua natureza e sob condições normais de utilização, têm duração superior a dois anos, como, por exemplo, equipamentos, material bibliográfico, semoventes, veículos, reformas ou instalações, mobiliário, entre outros.
+
+b) Despesas de Custeio:
+
+b.1) material de consumo: itens cuja duração é limitada a curto espaço de tempo, como, por exemplo, reagentes, produtos químicos, medicamentos, gêneros alimentícios, vidrarias, utensílios de laboratório, entre outros.
+
+b.2) serviços de terceiros contratados ou pagos a pessoa jurídica ou pessoa física, considerando que:
+
+b.2.1) são classificados como serviços de terceiros: contratação de serviços técnicos e especializados de curta duração, diretamente ligados aos resultados pretendidos na pesquisa; seguro viagem; seguro de bens móveis; taxa de inscrição em eventos; entre outros;
+
+b.2.2) seguro viagem: a utilização de recursos para a contratação de seguro viagem está limitada aos valores indicados na tabela disponível em www.fapesp.br/2921;
+
+b.2.3) na contratação de serviços de terceiros de pessoa física, o Outorgado é responsável por observar a legislação em vigor.
+
+b.3) despesas de transporte: considera-se despesa de transporte o pagamento de transporte aéreo, terrestre, fluvial, marítimo, combustível e pedágio, utilizados para deslocamentos entre cidades.
+
+b.4) diárias e manutenção mensal: conforme itens 3.3.1 e 3.3.2.
+
+2.4. Itens não financiáveis (volta ao índice)
+
+2.4.1) Na utilização dos recursos concedidos pela FAPESP em processos de Auxílios à Pesquisa e Bolsas não são financiáveis:
+
+2.4.1.1) Nas alíneas de material permanente e material de consumo:
+
+a) Despesas com obras e/ou construções civis que redundem em aumento de área construída.
+
+b) Aquisições de materiais usados, exceto quando comprovada a inexistência do material novo no mercado.
+
+c) Aquisições de peças para manutenção preventiva de equipamentos, exceto com a Reserva Técnica para Infraestrutura Institucional de Pesquisa - RTI, e para manutenção preventiva e/ou corretiva de veículos. (Redação dada pela Portaria PR n. 85/2022).
+
+2.4.1.2) Na alínea de serviços de terceiros:
+
+a) Despesas que estejam fundamentadas apenas em atividades de ensino e extensão.
+
+b) Atividades administrativas de qualquer natureza, incluindo despesas com: luz, água, telefone, provedores de internet e similares, serviços de digitação, demonstrações contábeis e outras que caracterizem serviços administrativos.
+
+c) Despesas com a contratação de pessoal, salários, complementação salarial ou outros encargos trabalhistas.
+
+d) Despesas de correios/courier, exceto para o envio de amostras diretamente relacionadas ao desenvolvimento do projeto de pesquisa.
+
+e) Despesas com manutenção preventiva de equipamentos, exceto com a RTI, inclusive contratação de garantia estendida. (Redação dada pela Portaria PR n. 85/2022)
+
+f) Despesas com reparos ou atualizações de equipamentos que não sejam de propriedade da Instituição Sede do processo ou que não tenham sido adquiridos com recursos da FAPESP.
+
+g) Contratações de seguro para material permanente móvel, utilizado fora do âmbito da Instituição onde se desenvolve o projeto, que não tenha sido adquirido com recursos do processo ou que já tenha sido transferido ou doado para a Instituição.
+
+h) Despesas com reparo e manutenção de veículos.
+
+i) Pagamentos de taxas de filiação em sociedades/associações.
+
+j) Despesas com cursos de idiomas e de informática.
+
+k) Pagamentos de mensalidade e/ou matrícula em curso de graduação ou pós-graduação.
+
+l) Taxas para emissão de diplomas e certificados.
+
+m) Despesas relacionadas à emissão de passaporte, incluindo serviço de despachante, deslocamentos e postagem para envio e recebimento de documentos.
+
+n) Taxas para emissão de vistos, exceto com Reserva Técnica de Bolsa, conforme normas descritas em www.fapesp.br/rt.
+
+o) Custos para emissão de Procuração Pública, exceto com Reserva Técnica de Bolsa, conforme normas descritas em www.fapesp.br/rt.
+
+p) Despesas com fotocópias de materiais bibliográficos.
+
+q) Pagamentos de serviços de qualquer natureza a bolsistas da FAPESP durante o período de vigência da Bolsa, exceto para os casos previstos na Portaria PR nº 05/2012.
+
+r) Contratações ou destinação de recursos concedidos para a execução do projeto, a que título for, a pessoas:
+
+r.1) Físicas que sejam parentes (ascendentes, descendentes ou colaterais até o 4º grau, consanguíneos ou por afinidade), cônjuges ou companheiros do Outorgado, ou de membro da equipe do projeto de pesquisa, bem como de empregados, membros do Conselho Superior e colaboradores da FAPESP, ainda que eventuais.
+
+r.2) Jurídicas que tenham como sócios o próprio Outorgado, membros da equipe da pesquisa, empregados, membros do Conselho Superior ou colaboradores da FAPESP, ainda que eventuais, bem como os parentes (ascendentes, descendentes ou colaterais até o 4º grau, consanguíneos ou por afinidade), o cônjuge ou companheiro de quaisquer deles.
+
+r.3) Físicas ou Jurídicas com as quais o Outorgado mantenha negócios, dívidas ou créditos.
+
+s) Remunerações ao próprio Outorgado.
+
+2.4.1.3. Na alínea de despesas de transporte:
+
+a) Passagens aéreas emitidas em classe diferente da classe econômica.
+
+b) Despesas com marcação de assentos e excesso de bagagens.
+
+c) Taxas e/ou multas para cancelamento e remarcação de passagens, exceto se previamente autorizado pela FAPESP.
+
+d) Pagamentos de serviços de transporte executivo (veículo com motorista), veículo por aplicativo e táxi, exceto quando concedido no Termo de Outorga e Aceitação de Auxílios.
+
+e) Despesas com estacionamento.
+
+2.4.1.4. Nas alíneas de diárias e manutenção mensal:
+
+a) As despesas não financiáveis na utilização de diárias ou manutenção mensal são definidas na Portaria PR nº 35/2020.
+
+2.4.2. Na utilização dos recursos concedidos pela FAPESP em processos de Auxílios e Bolsas é também vedado:
+
+2.4.2.1. Transferir recursos ou saldos de um processo para outro.
+
+2.4.2.2. Fazer aplicações financeiras com os recursos liberados.
+
+2.4.2.3. Pagamentos de multas de qualquer natureza, taxas bancárias, juros ou correção monetária, incidentes sobre despesas de quaisquer alíneas. (Redação dada pela Portaria PR n. 101/2023)
+
+2.5. Escolha do fornecedor ou prestador de serviço (volta ao índice)
+
+2.5.1. É responsabilidade do Outorgado a escolha do fornecedor ou prestador para realizar aquisições de materiais e contratações/pagamentos de serviços com os recursos concedidos pela FAPESP.
+
+2.5.1.1. Na submissão da Prestação de Contas à FAPESP, deverão ser apresentadas as justificativas dos preços e razões que determinaram a escolha de cada fornecedor ou prestador de serviço.
+
+2.5.1.2. Para aquisições e contratações/pagamentos de serviços com valor superior a 10 (dez) salários mínimos (a referência é o salário mínimo nacional vigente no momento da realização da despesa), devem ser apresentadas cotações de preços de, no mínimo, 3 (três) diferentes fornecedores/prestadores de serviço, que estejam válidas no momento da realização da despesa.
+
+a) Para o cálculo do valor superior a 10 (dez) salários mínimos será considerada a somatória do valor total dos comprovantes de despesas com aquisições e contratações de um mesmo fornecedor ou prestador de serviço, referentes às parcelas de uma mesma aquisição ou serviço, que possam ser realizadas de uma só vez.
+
+b) Nos casos em que não houver três fornecedores/prestadores para o material/serviço, devem ser apresentados justificativas e documentos que atestem o fato, para análise da FAPESP.
+
+c) Para realização de despesas no país, as cotações apresentadas devem ser emitidas em moeda nacional.
+
+d) Para as cotações obtidas por meios eletrônicos, a autenticidade dos documentos deverá ser atestada por meio de declaração registrada pelo Outorgado, no momento do envio da Prestação de Contas eletrônica via SAGe.
+
+d.1) Cotações recebidas por e-mail podem ser apresentadas desde que acompanhadas de cópias das trocas de correspondências eletrônicas entre o solicitante e o fornecedor.
+
+2.5.1.3. Para Auxílios das modalidades PIPE e PITE, os prestadores de serviços e consultores a serem subcontratados, sejam pessoa física ou jurídica, devem ser aqueles previamente autorizados pela FAPESP no respectivo processo.
+
+a) Independentemente da autorização prévia no processo, por ocasião do envio da Prestação de Contas é obrigatória a apresentação de justificativas para escolha do prestador/consultor e de cotações de preço realizadas, em atendimento aos itens 2.5.1.1 e 2.5.1.2.
+
+b) Para alteração do prestador de serviços ou consultor deverá ser submetida solicitação de autorização prévia à FAPESP no processo.
+
+2.5.2. Antes da aquisição e da contratação/pagamento a fornecedores e prestadores pessoa jurídica no país, devem ser realizadas as seguintes consultas:
+
+a) Verificar se a empresa prestadora/fornecedora tem obrigatoriedade total de emissão de Nota Fiscal Eletrônica, junto ao órgão competente.
+
+a.1) Somente serão aceitas notas fiscais não eletrônicas de empresas sem obrigatoriedade total de emissão de Nota Fiscal Eletrônica.
+
+b) Nos casos de fornecedores não emitentes de Nota Fiscal Eletrônica (NF-e) e de prestadores de serviços não emitentes de Nota Fiscal de Serviços Eletrônica (NFS-e), o Outorgado deverá verificar se a empresa está "Habilitada" e "Ativa" nos cadastros fiscais públicos do SINTEGRA (Secretaria da Fazenda) e do Cadastro Nacional da Pessoa Jurídica – CNPJ (Receita Federal), respectivamente, devendo ser confirmada a situação da empresa escolhida antes da efetivação da despesa.
+
+b.1) Somente serão aceitas despesas realizadas junto a empresas reconhecidas no SINTEGRA como "Habilitadas" e na Receita Federal como "Ativas".
+
+2.5.3. As consultas aos cadastros da Receita Federal e da Secretaria da Fazenda, realizadas conforme item 2.5.2.b, devem ser anexadas aos comprovantes de despesas enviados na Prestação de Contas.
+
+2.5.4. Caso o fornecedor/prestador não cumpra com a obrigação de entrega do material adquirido ou do serviço contratado, o Outorgado deverá restituir os valores correspondentes à FAPESP. Não compete à FAPESP nenhum tipo de intervenção junto ao fornecedor/prestador.
+
+3. Comprovação de Despesas (volta ao índice)
+
+a) Em todos os comprovantes de despesas realizadas com recursos concedidos pela FAPESP deve constar, no corpo do documento fiscal, a indicação "Processo FAPESP nº__/_____-__" e descrição detalhada dos serviços contratados ou dos materiais adquiridos, contendo quantidades e valores.
+
+a.1) Nos casos de pesquisas financiadas com recursos de convênios ou acordos de cooperação, deverá constar, também, a denominação do respectivo acordo ou convênio e, quando houver, o número.
+
+b) Não serão aceitos comprovantes de despesas que apresentem alterações, emendas ou rasuras que prejudiquem sua clareza, salvo se for emitida carta de correção pelo fornecedor, nos termos da legislação aplicável.
+
+c) Na realização de despesas em moedas estrangeiras, considerando que o câmbio é flutuante, deve ser anexado à Prestação de Contas o comprovante da taxa de câmbio utilizada na conversão da despesa para a moeda nacional.
+
+c.1) Na ausência do comprovante da taxa de câmbio utilizada, a FAPESP considerará a cotação cambial publicada pelo Banco Central.
+
+d) Os comprovantes de despesas apresentados à FAPESP devem estar devidamente quitados.
+
+d.1) Devem ser anexados ao respectivo comprovante de despesa documento que ateste sua quitação, como por exemplo: duplicata quitada; recibo; comprovante de pagamento eletrônico em que conste a identificação do documento fiscal faturado.
+
+d.2) O agendamento do pagamento do título não configura sua quitação.
+
+3.1. Material Permanente e Material de Consumo (volta ao índice)
+
+3.1.1 Auxílios à Pesquisa (volta ao índice)
+
+3.1.1.1. Aquisições no País
+
+a) Em Auxílios à Pesquisa, os documentos fiscais referentes às aquisições de material permanente e de consumo, que impliquem ICMS (imposto estadual), expedidos por fornecedores nacionais, sediados dentro ou fora do estado de São Paulo, exceto nas situações indicadas nos itens 3.1.3, 3.1.4 e 3.1.5, devem ser emitidos em nome de:
+
+FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE SÃO PAULO
+CNPJ nº 43.828.151/0002-26
+Endereço: Rua Pio XI, 1500 – Alto da Lapa
+CEP: 05468-901 – São Paulo – SP
+
+b) Quando a aquisição for realizada no estado de São Paulo, o Outorgado deverá solicitar ao emitente (fornecedor) a aplicação da isenção do ICMS, com base no Decreto nº 48.034, de 19 de agosto de 2003 (que altera o artigo 55 do Anexo I do Regulamento do ICMS/SP), que exclui da incidência de tal imposto as aquisições realizadas por órgãos públicos, como é o caso da FAPESP.
+
+b.1) A isenção do ICMS não se aplica no caso de empresas optantes do Simples Nacional, produtos sujeitos a substituição tributária, material importado com similar nacional e fornecedores interestaduais, devendo o fornecedor justificar o motivo no corpo do documento fiscal.
+
+c) Deverá constar no documento fiscal, como local de entrega do material, o endereço da Instituição Sede do processo.
+
+c.1) No caso de processos envolvendo parcerias com outras Instituições no estado de São Paulo, caso tenha sido previamente autorizada pela FAPESP a aquisição de materiais para entrega nestas Instituições, o documento fiscal poderá conter o seu respectivo endereço como local de entrega.
+
+d) Deverá ser indicado ao fornecedor, como endereço de cobrança, o endereço da Instituição Sede do processo, não sendo permitida a cobrança no endereço da FAPESP.
+
+e) A FAPESP se reserva o direito de, por decisão devidamente motivada, excluir a responsabilização do Outorgado em relação ao não cumprimento das alíneas “a” a “d” do item 3.1.1.1, nas seguintes hipóteses:
+
+e.1) comprovado que o inadimplemento se deu em razão de caso fortuito ou força maior;
+e.2) comprovado que se trata de erro escusável;
+e.3) comprovado o esforço e diligência para cumprir, nos limites de sua atuação, as obrigações assumidas. (Redação dada pela Portaria PR n. 101/2023)
+
+3.1.1.2. Aquisições no exterior
+
+a) Os documentos fiscais referentes às aquisições de material permanente e de consumo, expedidos por fornecedores do exterior, devem ser emitidos:
+
+a.1) No caso de aquisições realizadas pelo próprio Outorgado, em nome do Outorgado; ou
+
+a.2) No caso de aquisições realizadas pelo Setor de Importação da Instituição Sede, em nome da Instituição.
+
+b) Deverá constar no documento fiscal, como local de entrega do material e como endereço de cobrança, o endereço da Instituição Sede do processo.
+
+b.1) No caso de processos envolvendo parcerias com outras Instituições no estado de São Paulo, caso tenha sido previamente autorizada pela FAPESP a aquisição de materiais para entrega nestas Instituições, o documento fiscal poderá conter o seu respectivo endereço como local de entrega.
+
+3.1.2 Bolsas (volta ao índice)
+
+a) Em Bolsas, os documentos fiscais referentes às aquisições de material permanente e de consumo, em território nacional, exceto nas situações indicadas no item 3.1.4 e 3.1.5, devem ser emitidos em nome do Bolsista.
+
+b) Os documentos fiscais referentes às aquisições de material permanente e de consumo, expedidos por fornecedores do exterior, devem ser emitidos:
+
+b.1) No caso de aquisições realizadas pelo próprio Bolsista, em nome do Bolsista; ou
+
+b.2) No caso de aquisições realizadas pelo Setor de Importação da Instituição Sede, em nome da Instituição.
+
+c) Tanto para aquisição em território nacional quanto por importação, deverá constar no documento fiscal, como local de entrega do material e como endereço de cobrança, o endereço da Instituição Sede do processo.
+
+d) Nas hipóteses em que o comprovante fiscal for emitido em nome do Bolsista e dê origem a créditos no Programa Nota Fiscal Paulista, a FAPESP recomenda que os créditos sejam revertidos ao saldo de Reserva Técnica do correspondente processo de Bolsa e, quando de sua utilização, sejam reconhecidos na Prestação de Contas como recursos de outras fontes.
+
+3.1.3 Aquisição de veículos automotores (volta ao índice)
+
+a) Os comprovantes fiscais com a aquisição de veículos automotores (automóveis, motocicletas, barcos, tratores etc.) devem ser emitidos em nome da Instituição Sede do processo, que deverá providenciar a sua imediata incorporação à frota institucional.
+
+b) A Prestação de Contas deverá ser encaminhada à FAPESP imediatamente após a aquisição.
+
+3.1.4. Aquisição de animais semoventes (volta ao índice)
+
+a) Os comprovantes fiscais com a aquisição de animais semoventes devem ser emitidos em nome da Instituição Sede do processo, que deverá providenciar a sua imediata incorporação ao patrimônio institucional.
+
+b) A Prestação de Contas deverá ser encaminhada à FAPESP imediatamente após a aquisição.
+
+c) Eventuais despesas com o manejo dos animais durante a vigência do processo poderão ser cobertas com recursos da respectiva Parcela para Custos de Infraestrutura Direta do Projeto, no caso de Auxílios, ou da Reserva Técnica, no caso de Bolsas, conforme normas disponíveis em www.fapesp.br/rt.
+
+3.1.5. Material controlado (volta ao índice)
+
+a) Os comprovantes fiscais com a aquisição de materiais controlados (Polícia Federal, Ministério do Exército, Comissão Nacional de Energia Nuclear etc.) devem ser emitidos em nome da Instituição de destino do material, seja a Instituição Sede do processo ou uma das Instituições parceiras do projeto.
+
+b) Para Prestação de Contas da aquisição de materiais controlados deverão ser apresentados:
+
+b.1) Cópia do comprovante fiscal emitido em nome da Instituição de destino do material, contendo o número de registro do respectivo órgão controlador;
+
+b.2) Recibo de reembolso emitido em papel timbrado da Instituição, comprovando o repasse de recursos pelo Outorgado à Instituição.
+
+3.1.6. Comprovantes fiscais aceitos pela FAPESP (volta ao índice)
+
+3.1.6.1. Aquisições em território nacional
+
+a) Nas aquisições de material permanente e material de consumo, em território nacional, em Auxílios e Bolsas, serão aceitos os seguintes comprovantes fiscais:
+
+a.1) Nota Fiscal Eletrônica, Nota Fiscal ao Consumidor Eletrônica, Nota Fiscal, Cupom Fiscal Eletrônico ou Cupom Fiscal;
+
+a.2) A Nota Fiscal com "faturamento antecipado" ou "venda a ordem" deve estar acompanhada da correspondente Nota Fiscal ou DANFE de Remessa, comprovando a entrega do material.
+
+b) O Outorgado deverá verificar a autenticidade da Nota Fiscal Eletrônica no Portal da Nota Fiscal Eletrônica.
+
+c) Os comprovantes fiscais de aquisição de material permanente deverão conter, exclusivamente, itens dessa natureza, demonstrando as principais características do bem adquirido, como marca, modelo, tipo, número de série do equipamento, editora, autor, título da obra e outros.
+
+3.1.6.2. Aquisições no exterior
+
+a) Nas aquisições de material permanente e material de consumo por importação, em Auxílios e Bolsas, deverão ser apresentados os seguintes comprovantes:
+
+a.1) Aquisições realizadas pelo Outorgado:
+
+a.1.1) "Commercial invoice", quitada pelo emitente;
+
+a.1.2) No caso de pagamento realizado com cartão de crédito, apresentar:
+
+a.1.2.1) Extrato do cartão de crédito;
+
+a.1.2.2) Se utilizado cartão de crédito de terceiros, além do extrato do cartão, apresentar Recibo de Reembolso (Modelo1)
+
+a.1.3) No caso de pagamento realizado com remessa bancária, apresentar comprovantes das despesas com a remessa, emitidos pela instituição bancária;
+
+a.1.4) Comprovantes de recolhimento de impostos e de outras despesas, emitidos pela Receita Federal e/ou pela companhia responsável pelo transporte internacional; e
+
+a.1.5) No caso de embarque como bagagem acompanhada, apresentar também:
+
+a.1.5.1) Informação do Outorgado, mencionando o nome da pessoa que trouxe a mercadoria; e
+
+a.1.5.2) cópia do cartão de embarque referente à entrada no país.
+
+a.2) Aquisições realizadas pelo Setor de Importação da Instituição:
+
+a.2.1) Demonstrativo de Apropriação de Custo de Material Importado (Modelo 7)
+
+a.2.2) "Proforma invoice" autorizada;
+
+a.2.3) Fatura Comercial;
+
+a.2.4) Licença de Importação (LI) com os devidos deferimentos das entidades controladoras (CNEN, INPI, Governo do Estado, IBAMA etc.), se houver;
+
+a.2.5) Conhecimento de embarque;
+
+a.2.6) Declaração de Importação (DI);
+
+a.2.7) Comprovante de Importação (CI);
+
+a.2.8) Carta de crédito, se houver;
+
+a.2.9) Contrato de Câmbio;
+
+a.2.10) Contrato de cancelamento, se houver;
+
+a.2.11) Comprovantes da realização de seguro (apólice, recibo etc.);
+
+a.2.12) Comprovantes de despesas bancárias;
+
+a.2.13) Recibo do frete aéreo ou naval;
+
+a.2.14) Recibo da INFRAERO;
+
+a.2.15) Recibo do Sindicato dos Despachantes Aduaneiros;
+
+a.2.16) Nota Fiscal de honorários do Despachante;
+
+a.2.17) Nota Fiscal de transporte terrestre;
+
+a.2.18) Outros.
+
+b) Aquisições realizadas pela FAPESP:
+
+b.1) O Outorgado está dispensado da apresentação da Prestação de Contas, que será providenciada pela Gerência de Importação e Exportação da FAPESP.
+
+3.1.6.3. Realização de obras, instalações ou reformas
+
+a) As aquisições de materiais e contratações de serviços para realização de obras, instalações ou reformas são classificadas como despesas de capital, na alínea de material permanente.
+
+b) Além dos comprovantes de despesas indicados no item 3.1.6.1, referentes aos materiais adquiridos, e dos comprovantes indicados no item 3.2, referentes aos serviços contratados, devem ser apresentados:
+
+b.1) Contrato firmado com construtora, se houver;
+
+b.2) Adendo de Obra, conforme Modelo 6, ou Memorial Descritivo fornecido pela construtora; e
+
+b.3) Fotografias iniciais e finais.
+
+3.1.6.4. Fabricação ou montagem de equipamento ou mobiliário
+
+a) As aquisições de materiais e contratações de serviços para fabricação ou montagem de equipamento ou mobiliário são classificadas como despesas de capital, na alínea de material permanente.
+
+a.1) Independentemente da classificação como material permanente, os comprovantes de despesas com a contratação de serviços devem ser emitidos em nome do Outorgado ou Bolsista, de acordo com as orientações constantes no item 3.2 desta norma.
+
+b) Além dos comprovantes de despesas indicados no item 3.1.6.1, referentes aos materiais adquiridos, e dos comprovantes indicados no item 3.2, referentes aos serviços contratados, deverá ser apresentado documento contendo descrição detalhada do produto final.
+
+3.1.7. Guarda e destinação de Material Permanente (volta ao índice)
+
+a) Durante a vigência do Auxílio, o material permanente adquirido deverá ficar sediado na Instituição/Empresa constante do respectivo "Termo de Aceitação de Transferência de Domínio de Materiais por Cessão de Uso e/ou Doação".
+
+a.1) Todo material permanente importado pela FAPESP deverá ficar sediado na Instituição constante da Declaração de Importação.
+
+b) Os materiais permanentes adquiridos com a Reserva Técnica de Bolsas devem ficar sediados na Instituição Sede do processo, durante a sua vigência.
+
+c) Na aquisição de materiais permanentes móveis a serem utilizados fora do âmbito da Instituição que sedia o projeto, deverá ser contratado seguro específico do bem sob a guarda e responsabilidade do Outorgado, até que seja efetuada a doação ou cessão de uso à Instituição Sede.
+
+c.1) Quando houver, os recursos da respectiva Parcela para Custos de Infraestrutura Direta do Projeto, em Auxílios, ou da Reserva Técnica, em Bolsas, podem ser utilizados para custear as despesas com contratação do seguro e, no caso de sinistro, o pagamento da franquia.
+
+c.2) Não sendo realizada a contratação do seguro, o Outorgado arcará com a restituição financeira à FAPESP em caso de sinistro (roubo, furto e perda).
+
+d) Em caso de dano irreparável, roubo, furto ou outro sinistro envolvendo material permanente ainda não doado à Instituição/Empresa, ou que esteja em cessão de uso a esta, o Outorgado deverá comunicar imediatamente à FAPESP, que poderá, após avaliação pelas áreas competentes, autorizar seu desmembramento, descarte, baixa ou outras providências que entender cabíveis.
+
+3.1.7.1. Destinação de Material Permanente adquirido em Auxílios
+
+a) Relativo aos materiais permanentes adquiridos em Auxílios, a FAPESP procederá à sua doação ou cessão de uso em favor da Instituição/Empresa Sede, emitindo o correspondente "Termo de Doação de Material Permanente" ou "Termo de Cessão de Uso de Material Permanente", conforme o caso:
+
+a.1) Será feita a doação do material permanente nos casos em que a Instituição Sede for pública, ou for uma Instituição privada habilitada para receber doações.
+
+a.1.1) Em se tratando de projeto de pesquisa desenvolvido em Instituições privadas, a doação será condicionada ao cumprimento da alínea "a", inciso II, artigo 17, da Lei Federal nº 8.666, de 21 de junho de 1993, com alterações posteriores.
+
+a.2) Para processos da modalidade PIPE e processos cuja Instituição Sede seja privada não habilitada para receber doações, será concedida a cessão de uso do material permanente.
+
+a.2.1) Quando concedida, a cessão de uso de material permanente terá vigência de 5 (cinco) anos, a partir da emissão do respectivo "Termo de Cessão de Uso de Material Permanente", podendo esta ser encerrada antecipadamente, a qualquer tempo, a critério da FAPESP ou por solicitação do Outorgado ou da Instituição/Empresa cessionária.
+
+a.2.2.) Poderá ser concedida a prorrogação do "Termo de Cessão de Uso de Material Permanente" por um novo período de 5 (cinco) anos, mediante solicitação justificada enviada pelo Outorgado, com anuência da Instituição/Empresa cessionária. A FAPESP poderá, a seu critério, autorizar a prorrogação ou encerrar a cessão de uso do item de material permanente.
+
+a.2.3) Ao término da vigência do "Termo de Cessão de Uso de Material Permanente", bem como nos casos de seu encerramento antecipado, o material permanente poderá ser:
+
+a.2.3.1) doado a Instituição de pesquisa pública, ou privada habilitada para receber doações, a ser indicada pela FAPESP, ou indicada pela Empresa Sede de Auxílio na modalidade PIPE com aprovação da FAPESP;
+
+a.2.3.2) cedido novamente para a mesma ou para outra Empresa, que sedie novo Auxílio na modalidade PIPE apoiado pela FAPESP;
+
+a.2.3.3) cedido a outra Instituição, nos casos de alteração da Instituição Sede do processo; ou
+
+a.2.3.4) se não houver Instituição interessada e habilitada para receber a doação ou cessão de uso, o material permanente será colocado em disponibilidade pela FAPESP.
+
+b) No caso de material permanente importado pela FAPESP, após o término da vigência do processo e da aprovação da respectiva Prestação de Contas final, a doação do item poderá ser realizada observando-se os prazos e condições estabelecidas na legislação em vigor.
+
+c) No caso de Auxílios envolvendo mais de uma Instituição, caso o material permanente venha a ser destinado a Instituição diferente daquela constante do Termo de Outorga e Aceitação de Auxílios, o Outorgado deverá enviar juntamente com a Prestação de Contas do material permanente adquirido, uma solicitação relacionando os bens destinados a cada uma das Instituições envolvidas, contendo:
+
+c.1) Declaração de anuência assinada pelo dirigente da Instituição Sede do processo, concordando com a doação/cessão de uso para outra Instituição participante do projeto; e
+
+c.2) "Termo de Aceitação de Transferência de Domínio de Materiais por Cessão de Uso e/ou Doação", preenchido e assinado pelo representante legal da nova Instituição donatária/cessionária.
+
+3.1.7.2. Destinação de Material Permanente adquirido em Bolsas
+
+a) Os materiais permanentes adquiridos com a Reserva Técnica de Bolsas devem ser transferidos para a Instituição Sede, com o envio à FAPESP do Termo de Transferência de Material Permanente (Modelo 9) devidamente assinado.
+
+a.1) Deverá ser enviado um Termo de Transferência para equipamentos, que são doados à Instituição Sede, e outro para livros/periódicos, que são doados à Biblioteca da mesma Instituição.
+
+a.2) Quando da aquisição de acessórios ou componentes de atualização de equipamentos, que isoladamente não sejam considerados materiais permanentes, os mesmos deverão ser relacionados em uma declaração emitida pelos interessados informando que tais materiais foram entregues à Instituição Sede. A declaração deverá ser assinada pelo Bolsista, Orientador/Supervisor e pelo Dirigente da Instituição Sede, ou seu representante legal, e encaminhada com a Prestação de Contas final.
+
+b) O Termo de Transferência de Material Permanente deverá acompanhar a Prestação de Contas da Reserva Técnica na ocasião listada abaixo que ocorrer primeiro:
+
+b.1) na data da última Prestação de Contas estabelecida no Termo de Outorga ou Aditivo ao Termo de Outorga da Bolsa;
+
+b.2) no cancelamento da Bolsa; ou
+
+b.3) na interrupção da Bolsa.
+
+c) Caso o Termo de Transferência de Material Permanente tenha sido apresentado junto com a Prestação de Contas parcial ou no momento da interrupção da Bolsa, uma cópia do documento deverá ser enviada junto com a Prestação de Contas Final.
+
+3.2. Serviços de Terceiros (volta ao índice)
+
+a) Todos os documentos fiscais de despesas com contratação/pagamento de serviços de terceiros e que impliquem ISS (imposto municipal), devem ser emitidos em nome do Outorgado, no caso de Auxílios, ou em nome do Bolsista, no caso de Bolsas.
+
+a.1) Caso constatada a emissão de Nota Fiscal Eletrônica de Serviços em nome da Fundação, a FAPESP solicitará ao Outorgado a sua imediata regularização, sob pena de bloqueio na liberação de recursos do processo.
+
+b) Deverá constar no documento fiscal, como endereço de cobrança, o endereço da Instituição Sede do processo.
+
+c) Os comprovantes fiscais referentes à contratação/pagamento de serviços de terceiros devem conter a descrição e quantificação dos serviços realizados, informando, por exemplo, quantidade, número de horas, valores unitários, valores totais etc.
+
+3.2.1. Serviços de Terceiros no País (volta ao índice)
+
+As despesas com serviços de terceiros no país poderão ser comprovadas da seguinte forma:
+
+a) Contratados de pessoa jurídica:
+
+a.1) Apresentar Nota Fiscal Eletrônica, Nota Fiscal de Serviços e/ou Nota Fiscal de Serviços Eletrônica.
+
+a.1.1) O Outorgado deverá consultar a validade das Notas Eletrônicas conforme indicado no documento.
+
+a.2) Se a empresa for isenta de emissão de notas fiscais, apresentar recibo em papel timbrado da empresa e cópias do estatuto de constituição e da legislação de isenção para análise.
+
+b) Contratados de pessoa física:
+
+b.1) Para execução de serviços técnicos e especializados: apresentar NFS-e (Nota Fiscal de Serviços Eletrônica), NFA-e (Nota Fiscal Avulsa Eletrônica) ou o RPA (Recibo de Pagamento a Autônomo) acompanhado de cópias das guias de recolhimento dos impostos incidentes.
+
+b.2) Para execução de serviços artesanais ou braçais: apresentar comprovante conforme item 3.2.1.b.1, ou Recibo para Pagamento de Serviços (Modelo 2), não devendo ser utilizado papel timbrado ou outros impressos da Instituição de vínculo do Outorgado.
+
+c) Contratação de seguro para materiais permanentes móveis e seguro viagem:
+
+c.1) Apresentar a apólice do seguro, acompanhada do recibo de quitação do pagamento com assinatura do recebedor.
+
+c.2) A utilização de recursos para contratação de seguro viagem está limitada aos valores indicados na tabela disponível em www.fapesp.br/2921.
+
+d) Taxa de inscrição em eventos: apresentar documento emitido pela organização do evento, acompanhado do comprovante do pagamento efetuado.
+
+e) Impressão de trabalho de conclusão de curso, dissertação ou tese, permitida somente com recursos de Reserva Técnica de Bolsa: apresentar comprovantes conforme item 3.2.1.a, ou Recibo de Auxílio Impressão (Modelo 8), se o valor do gasto for limitado à metade da mensalidade da respectiva bolsa.
+
+f) Visto consular, permitido somente com recursos de Reserva Técnica de Bolsa: apresentar comprovante emitido pelo Consulado.
+
+g) Procuração pública, permitida somente com recursos de Reserva Técnica de Bolsa, quando exigida para recebimento de Bolsa Estágio de Pesquisa no Exterior - BEPE: apresentar comprovante de pagamento emitido pelo Cartório, contendo valor e data da despesa.
+
+3.2.2. Serviços de Terceiros no Exterior (volta ao índice)
+
+As despesas com serviços de terceiros no exterior poderão ser comprovadas da seguinte forma:
+
+a) Serviços contratados/pagos pelo Outorgado: apresentar a documentação indicada no item 3.1.6.2, alínea "a.1".
+
+b) Serviços contratados/pagos pela Instituição: apresentar a documentação indicada no item 3.1.6.2, alínea "a.2".
+
+c) Serviços contratados/pagos pela FAPESP: o Outorgado está dispensado da apresentação da Prestação de Contas, que será providenciada pela Gerência de Importação e Exportação da FAPESP.
+
+3.3. Diárias e manutenção mensal (volta ao índice)
+
+3.3.1. Para utilização de diárias no país, diárias no exterior, manutenção mensal no exterior e manutenção mensal de Pesquisador Visitante, devem ser observadas as normas descritas na Portaria PR nº 35/2020, disponível em www.fapesp.br/14018.
+
+3.3.2. O pagamento de diárias e manutenção mensal está limitado aos valores indicados nas tabelas disponíveis em www.fapesp.br/valores.
+
+3.3.3. As despesas com diárias no país, diárias no exterior e manutenção mensal no exterior devem ser comprovadas da seguinte forma:
+
+a) Utilizadas pelo Outorgado: apresentar o Recibo de Diárias/Manutenção para o Outorgado (Modelo 3), ou apresentar os comprovantes fiscais de hospedagem, alimentação e transporte urbano.
+
+b) Utilizadas por terceiros: apresentar o Recibo de Diárias/Manutenção para Pesquisadores Visitantes e Terceiros (Modelo 4) ou apresentar comprovantes fiscais de hospedagem, alimentação e transporte urbano.
+
+c) Em ambos os casos, deve também ser apresentado documento que comprove a realização da viagem no período citado (exemplos: comprovante das passagens utilizadas, comprovante de afastamento da Instituição, declaração da instituição visitada, ou outro documento, em que conste o período e o local do evento/visita).
+
+3.3.4. As despesas com manutenção mensal no exterior serão consideradas de acordo com a permanência efetiva no exterior do Outorgado, dos dependentes (no caso de Bolsa de Pesquisa no Exterior - BPE) e/ou dos membros de equipe, comprovada através da passagem aérea utilizada.
+
+a) Se não houver concessão da passagem aérea pela FAPESP, deverá ser apresentada cópia da passagem aérea utilizada ou dos passaportes com registros de saída e entrada no país.
+
+b) A concessão de recursos para dependentes em Bolsas de Pesquisa no Exterior obriga que estes permaneçam com o Outorgado no exterior durante todo o período de vigência da Bolsa, sob pena de devolução de todos os benefícios adicionais recebidos referentes ao respectivo dependente.
+
+3.3.5. As despesas com manutenção mensal de Pesquisador Visitante serão consideradas de acordo com a sua permanência efetiva no estado de São Paulo, comprovada através da passagem aérea ou terrestre utilizada. Se não houver concessão de passagens pela FAPESP, deverá ser apresentada cópia da passagem utilizada, contendo as datas de entrada e saída do estado de São Paulo.
+
+3.4. Despesas de transporte (volta ao índice)
+
+a) Na utilização de despesas de transporte, deve-se considerar como ponto de partida o município sede e como ponto de chegada o município onde se realizará o evento ou atividade relacionada ao projeto. Considera-se município sede:
+
+a.1) para os Outorgados: município em que se localiza a Instituição Sede do projeto, indicada no processo;
+
+a.2) para membros de equipe não vinculados à Instituição que sedia o projeto: município em que se localiza a Instituição de vínculo do respectivo membro de equipe;
+
+a.3) para Pesquisadores Visitantes: município de origem do Visitante, indicado no processo.
+
+b) Os comprovantes referentes à utilização de despesas de transporte devem ser emitidos em nome do respectivo passageiro.
+
+3.4.1. Transporte aéreo (volta ao índice)
+
+a) Na emissão de passagens aéreas, devem ser atendidas as seguintes condições:
+
+a.1) A responsabilidade pela aquisição da passagem aérea é do Outorgado.
+
+a.2) A passagem deve ser emitida em Classe Econômica e, sempre que possível, em Tarifa Promocional.
+
+a.3) Caso a passagem seja adquirida com utilização de programas de milhagem, serão consideradas pela FAPESP somente as despesas efetivamente pagas à companhia aérea, constantes no bilhete emitido, como taxas de embarque e demais tarifas de emissão.
+
+a.4) Os bilhetes devem ser emitidos com as datas marcadas de ida e volta, compreendendo o período de vigência do respectivo Auxílio ou Bolsa. Na impossibilidade, deve ser emitido um bilhete de ida e posteriormente outro de volta, evitando a necessidade de remarcação ou cancelamento. Outras situações deverão ser objeto de análise pela FAPESP antes da realização da despesa, mediante solicitação com justificativa circunstanciada.
+
+a.5) Para viagens nacionais e internacionais, em que seja necessária a permanência por ao menos um pernoite no local de realização do evento ou atividade relacionada ao processo, e desde que as passagens aéreas adquiridas não incluam bagagem despachada, poderão ser custeadas as taxas referentes a 1 (uma) bagagem despachada para os voos de ida e de volta.
+
+b) Para a comprovação da despesa com emissão de passagens aéreas devem ser apresentados os comprovantes de pagamento e de utilização, conforme abaixo:
+
+b.1) Comprovação de pagamento:
+
+b.1.1) Quando adquirida pelo Outorgado: Recibo expedido pela companhia aérea ou agência de viagens, discriminando os valores pagos (transporte, taxas etc.); ou
+
+b.1.2) Quando adquirida por Pesquisador Visitante ou por terceiros: Recibo expedido pela companhia aérea ou agência de viagens, discriminando os valores pagos (transporte, taxas etc.) e Recibo de Reembolso (Modelo 1).
+
+b.2) Comprovação de utilização:
+
+b.2.1) E-ticket, contendo a base tarifária; e
+
+b.2.2) Cartões de embarque (físico ou eletrônico) ou canhoto da passagem aérea utilizada, com percurso completo. Em caso de dano ou extravio dos cartões de embarque, deverá ser apresentada declaração de embarque fornecida pela companhia aérea.
+
+c) Em caso de trecho não utilizado, é obrigatória a comprovação do pedido de reembolso à Companhia Aérea e a restituição do valor proporcional aos trechos não utilizados à FAPESP.
+
+d) Em caso de não utilização da passagem aérea adquirida, o valor integral utilizado deverá ser restituído à FAPESP, não sendo financiável o pagamento de multas e taxas.
+
+3.4.2. Passagens rodoviárias, fluviais, marítimas, ferroviárias e outras (volta ao índice)
+
+a) Apresentar comprovante de aquisição e canhoto da passagem em que constem itinerário, data da viagem e valor pago.
+
+b) Quando adquirida por terceiros, apresentar também o Recibo de Reembolso (Modelo 1).
+
+3.4.3. Combustível (volta ao índice)
+
+a) A FAPESP custeia combustível somente para o trecho percorrido entre municípios, considerando a média de 10 km/l.
+
+b) Para a comprovação desta despesa, devem ser apresentados:
+
+b.1) Comprovantes fiscais de gastos com combustível emitidos em nome do Outorgado; e
+
+b.2) Informação indicando o roteiro da viagem, com a quilometragem percorrida e a placa do veículo utilizado.
+
+3.4.4. Pedágio (volta ao índice)
+
+a) Para a comprovação do pagamento de tarifas de pedágios, podem ser apresentados:
+
+a.1) Pagamento manual: apresentar Documento Fiscal Equivalente (DFE); ou
+
+a.2) Pagamento automático: apresentar extrato fornecido pela empresa que opera o sistema de cobrança automática, com indicação feita pelo Outorgado de quais das despesas que constam no extrato foram custeadas com recursos do processo.
+
+3.4.5. Ônibus fretado (transporte de grupo) (volta ao índice)
+
+a) Apresentar o comprovante fiscal da empresa locatária, em nome do Outorgado.
+
+b) Se o aluguel for feito por terceiro, deverá ser apresentada a cópia da Nota Fiscal e Recibo do valor pago referente a cada passageiro financiado pela FAPESP.
+
+3.4.6. Transporte urbano (volta ao índice)
+
+a) Na utilização de transporte urbano podem ser custeados: ônibus municipal, ônibus intermunicipal classificado como urbano, metrô e trem.
+
+b) Para a comprovação desta despesa, deverá ser apresentado o Recibo de Transporte Urbano (Modelo 5), devidamente preenchido e assinado pelo Outorgado e pelo passageiro, com a descrição do percurso realizado, valor unitário e quantidade utilizada.
+
+3.4.7. Táxi e aplicativos de transporte de passageiros (volta ao índice)
+
+a) Despesas com táxi e utilização de aplicativos para transporte de passageiros somente podem ser custeadas como despesas de transporte quando explicitamente concedidas no Termo de Outorga e Aceitação do Auxílio;
+
+b) Para a comprovação da despesa deverá ser apresentado o recibo emitido pelo taxista ou via eletrônica emitida pela operadora do serviço.
+
+4. Elaboração e submissão da Prestação de Contas (volta ao índice)
+
+4.1. A Prestação de Contas deverá ser elaborada através do Sistema de Apoio à Gestão - SAGe (www.fapesp.br/sage), ou em sistema equivalente conforme disposto no item 4.8, inclusive para processos que tramitam em papel, e submetida à FAPESP nos prazos estabelecidos no Termo de Outorga e Aceitação de Auxílios e Bolsas, contendo os seguintes documentos a serem anexados em formato PDF ao sistema:
+
+a) Para cada aquisição de material ou contratação de serviço realizada devem ser apresentados os seguintes documentos:
+
+a.1) Comprovantes das despesas realizadas, conforme orientações da seção 3 desta norma.
+
+a.2) Em relação aos fornecedores e prestadores de serviços:
+
+a.2.1) Justificativas dos preços e razões que determinaram a escolha do fornecedor ou prestador de serviço, conforme item 2.5.1.1 desta norma;
+
+a.2.2) Cotações de preços, conforme item 2.5.1.2 desta norma; e
+
+a.2.3) Consultas realizadas aos cadastros da Receita Federal e da Secretaria da Fazenda, conforme o caso, de acordo com o item 2.5.2 desta norma.
+
+b) Comprovante da devolução do saldo não utilizado, quando houver, conforme instruções para devolução disponíveis em www.fapesp.br/10820.
+
+c) Termo de Transferência de Material Permanente (Modelo 9), no caso de Bolsas, se houver aquisição de Material Permanente, conforme item 3.1.7.2 desta norma.
+
+d) Outros documentos relevantes para análise da Prestação de Contas pela FAPESP.
+
+e) No caso de Auxílios aprovados nas modalidades PITE e Auxílios aprovados no âmbito de acordos de cooperação e convênios com aporte de recursos de contrapartida, devem ser apresentados os documentos referentes às Prestações de Contas da respectiva contrapartida da Instituição/Empresa parceira, comprovando a aplicação dos recursos nas alíneas aprovadas no processo.
+
+e.1) Esta documentação deverá ser anexada ao sistema pelo Outorgado nas mesmas datas estabelecidas no Termo de Outorga para a Prestação de Contas dos recursos concedidos pela FAPESP.
+
+f) No caso de Auxílios da modalidade PIPE Invest, por ocasião do envio de cada Prestação de Contas deverá ser apresentada documentação que comprove o depósito do investimento privado na conta corrente da pequena empresa, realizado por meio de um depósito identificado ou outra forma equivalente que demonstre a origem e o destino do investimento.
+
+4.2. Visando facilitar o acompanhamento da utilização dos recursos e o controle da Prestação de Contas, o preenchimento de informações no SAGe, para a elaboração da Prestação de Contas eletrônica, poderá ser feito à medida em que as despesas forem realizadas.
+
+4.2.1. As liberações e devoluções de recursos realizadas no processo são automaticamente registradas no SAGe, para que possam ser associadas a uma Prestação de Contas.
+
+4.2.2. No entanto, uma vez que o carregamento destas informações bancárias para o SAGe leva em média 3 dias úteis, recomenda-se que as operações de liberação e devolução de recursos sejam concluídas com esta antecedência mínima em relação à data prevista para a submissão do compromisso de Prestação de Contas.
+
+4.3. No preenchimento da Prestação de Contas eletrônica no SAGe, as despesas serão classificadas:
+
+a) por tópico: Projeto, Reserva Técnica - Benefícios Complementares, Reserva Técnica - Custos de Infraestrutura Direta do Projeto, Reserva Técnica de Bolsa; e
+
+b) dentro de cada tópico, por alínea: material permanente, material de consumo, serviços de terceiros, despesas de transporte e diárias/manutenção.
+
+4.4. As despesas lançadas na Prestação de Contas serão organizadas em ordem cronológica pelo próprio sistema, dentro de cada tópico e alínea, dando origem automaticamente ao Balancete de Prestação de Contas.
+
+4.5. Quando não houver liberação e utilização de recursos no período a que se refere a Prestação de Contas, a informação deverá ser declarada pelo outorgado no SAGe, no momento da elaboração da Prestação de Contas no sistema.
+
+4.6. A FAPESP permite que o Outorgado indique usuários e membros de Escritórios de Apoio Institucional ao Pesquisador (EAIPs) para apoiá-lo na elaboração da Prestação de Contas no SAGe.
+
+4.7. As orientações detalhadas sobre a elaboração e a submissão da Prestação de Contas eletrônica, bem como sobre a indicação de usuários de apoio, podem ser encontradas nos Manuais de Apoio aos Pesquisadores, disponíveis no link "Manuais" dentro do próprio SAGe.
+
+4.8. Instituições que disponham de sistemas de apoio à gestão e que, após análise técnica da FAPESP, se mostrarem compatíveis com a plataforma SAGe, poderão ser autorizadas a enviar Prestações de Contas em formato eletrônico por seus próprios sistemas.
+
+5. Instruções finais (volta ao índice)
+
+5.1. Após a submissão da Prestação de Contas, a documentação apresentada será examinada pela FAPESP, quanto à observância às regras contidas nesta e nas demais normas e editais da FAPESP, na legislação aplicável e nos Termos de Outorga de Auxílios e Bolsas.
+
+5.1.1. Após aprovação da Prestação de Contas final do processo, será emitido o correspondente título de quitação pela FAPESP.
+
+5.1.2. A emissão do título de quitação pela FAPESP não impede que o processo seja reaberto para nova análise da documentação apresentada, nos seguintes casos:
+
+a) irregularidades identificadas por órgãos de fiscalização e controle, aos quais a FAPESP está sujeita;
+
+b) apuração de denúncias recebidas pela FAPESP;
+
+c) outras situações que motivem a abertura de diligências no processo.
+
+5.2. No caso de impugnação de documentos apresentados na Prestação de Contas ou pedidos de esclarecimentos pela FAPESP, o Outorgado deverá cumprir as exigências solicitadas, no prazo determinado pela Fundação, por meio da apresentação de Prestação de Contas complementar.
+
+5.3. Os documentos originais referentes às Prestações de Contas eletrônicas enviadas à FAPESP devem ser mantidos sob a guarda e responsabilidade dos Outorgados em processos de Auxílios e Bolsas, pelo período de 5 (cinco) anos após a emissão do correspondente título de quitação pela FAPESP.
+
+5.3.1. No caso de comprovantes de despesas emitidos em papel termossensível, o Outorgado deve providenciar fotocópia do documento, a ser mantida junto com o original.
+
+5.3.2. No caso de importação de materiais permanentes e de consumo realizada pela Instituição Sede, a documentação original deverá ser arquivada pela própria Instituição, que deverá fornecer ao Outorgado uma cópia, autenticada por agente administrativo da referida Instituição, para que esta seja anexada à Prestação de Contas a ser apresentada à FAPESP. A autenticação deve ser realizada por meio de carimbo aposto na face da cópia onde há o conteúdo comparado com o original e, na face da cópia em branco, deve ser aposto carimbo com menção "em branco". Na autenticação deve haver ainda indicação da data, assinatura e identificação do agente administrativo que praticou o ato.
+
+5.4. A apresentação dos documentos originais referentes às Prestações de Contas eletrônicas poderá ser solicitada pela FAPESP ao Outorgado durante o período de guarda indicado no item 5.3, a seu exclusivo critério.
+
+5.4.1. Caso seja solicitada a apresentação de documentos originais, a documentação deverá ser enviada ao seguinte endereço:
+
+FAPESP - Diretoria Administrativa
+Rua Pio XI, 1500 - Alto da Lapa
+CEP 05468-901 - São Paulo - SP
+
+5.4.2. Quando solicitada, a documentação original deverá ser apresentada com a identificação do número do processo de Auxílio ou Bolsa correspondente, utilizando-se o formulário para encaminhamento conforme Modelo 10, e seguindo-se as seguintes recomendações:
+
+a) organizar os documentos por alíneas de despesas e, na sequência, por ordem cronológica;
+
+b) numerar as páginas da documentação a ser enviada, sendo que cada folha deverá conter somente um documento;
+
+c) não dobrar os documentos e comprovantes fiscais, salvo se maiores que tamanho A4;
+
+d) comprovantes menores que o tamanho A4 deverão ser colados em folhas de tamanho A4, na posição vertical, respeitando as possíveis anotações no verso do mesmo e mantendo margem à esquerda da folha para furação;
+
+e) no caso de comprovantes de despesas emitidos em papel termossensível, o Outorgado deve providenciar fotocópia do documento e colar o original na mesma folha;
+
+f) não utilizar grampos, clipes ou fita adesiva para fixação de documentos;
+
+g) não encadernar ou colocar os documentos em pastas de qualquer tipo.
+
+5.4.3. Caso a documentação seja recebida em desacordo com as orientações do item 5.4.2, esta será devolvida pela FAPESP ao Outorgado para reorganização e adequação às normas.
+
+5.5. Correrão por conta exclusiva do Outorgado quaisquer despesas que não se enquadrem nas autorizações constantes do Termo de Outorga e Aceitação de Auxílios e Bolsas, nesta norma, na legislação em vigor e nas demais normas e editais da FAPESP, podendo ainda ensejar a adoção de medidas administrativas e/ou judiciais pela FAPESP objetivando a devolução de recursos.
+
+5.6. Nas hipóteses indicadas no item 5.5, bem como nos casos de ausência da documentação comprobatória requerida para a Prestação de Contas, deverá ser restituída à FAPESP a importância correspondente.
+
+5.6.1. O valor devido a ser restituído à FAPESP será corrigido conforme a Tabela Prática de Débitos Judiciais elaborada pelo Tribunal de Justiça do Estado de São Paulo, ou qualquer outro índice legal que venha a substituí-lo, com incidência das demais sanções legais (juros, honorários advocatícios e custas judiciais).
+
+5.7. Quando houver alteração de responsabilidade em Auxílios, o Outorgado anterior deverá apresentar a Prestação de Contas referente ao período de sua gestão, cabendo ao seu substituto as Prestações de Contas seguintes.
